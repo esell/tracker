@@ -8,7 +8,9 @@ Because I'm horrible with C, almost all of this code was lifted from the followi
 and put together in a horrible mess:
 
 https://ava.upuaut.net/?p=627
+
 http://www.airspayce.com/mikem/bcm2835/index.html
+
 http://catb.org/gpsd/
 
 
