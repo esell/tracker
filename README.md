@@ -1,6 +1,6 @@
 # About
 
-Tracker is a program I created to help with tracking your HAB via radio. It was built around the Raspberry Pi 3, NTX2 transmitter and the Adafruit Ultimate GPS.
+Tracker is a program I created to help with tracking your High Altitude Balloon (HAB) via radio. It was built around the Raspberry Pi 3, NTX2 transmitter and the Adafruit Ultimate GPS.
 
 Once tracker is started it will read GPS data from the local gpsd daemon and send it out in RTTY for you to read.
 
